@@ -80,7 +80,10 @@ Creating a html file to display the contents as seen in the following image.
 ```
 
 ## Output
-Screenshot 2024-07-02 134519
+
+![344938843-48b88671-5277-4e5d-b4f7-4952d2fcf276](https://github.com/user-attachments/assets/27c3d952-1a15-46c0-b536-9a87164c8085)
+
+
 
 ## Result:
 Thus,Creating a html file to display the content in the above picture was executed successfully.
@@ -89,9 +92,10 @@ Thus,Creating a html file to display the content in the above picture was execut
 ## Aim: To design a website for a College.
 ## Program:
 
-```
 
-Index.html
+
+# Index.html
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -121,7 +125,9 @@ Index.html
     </footer>
 </body>
 </html>
-Academics.html
+```
+# Academics.html
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -152,8 +158,9 @@ Academics.html
     </footer>
 </body>
 </html>
-Admission.html
-
+```
+# Admission.html
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -184,7 +191,9 @@ Admission.html
     </footer>
 </body>
 </html>
-Gallery.html
+```
+# Gallery.html
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -219,7 +228,9 @@ Gallery.html
     </footer>
 </body>
 </html>
-Courses.html
+```
+# Courses.html
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -258,7 +269,9 @@ Courses.html
     </footer>
 </body>
 </html>
-ComputerScience.html
+```
+# ComputerScience.html
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -289,7 +302,9 @@ ComputerScience.html
     </footer>
 </body>
 </html>
-Mathematics.html
+```
+# Mathematics.html
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -333,7 +348,9 @@ Mathematics.html
     </footer>
 </body>
 </html>
-English.html
+```
+# English.html
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -377,7 +394,9 @@ English.html
     </footer>
 </body>
 </html>
-Social.html
+```
+# Social.html
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -418,7 +437,9 @@ Social.html
     </main>
 </head>
 </html>
-Economics.html
+```
+# Economics.html
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -462,7 +483,12 @@ Economics.html
     </footer>
 </body>
 </html>
-Management.html
+
+```
+
+
+# Management.html
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -554,8 +580,34 @@ footer {
     width: 100%;
     bottom: 0;
 }
+```
+
+
+
 ## Output:
-Screenshot 2024-07-02 133856 Screenshot 2024-07-02 133916 Screenshot 2024-07-02 133925 Screenshot 2024-07-02 133933 Screenshot 2024-07-02 134014 Screenshot 2024-07-02 134024 Screenshot 2024-07-02 134037 Screenshot 2024-07-02 134047 Screenshot 2024-07-02 134103 Screenshot 2024-07-02 134122
+
+![344943152-f9081a4f-6979-4263-957f-fc161cae6b6c](https://github.com/user-attachments/assets/aafe63c5-6f7d-4f48-a2a0-389d414ece78)
+
+![344943171-18648474-3cf4-4c9e-b0e3-5a2444e1b70f](https://github.com/user-attachments/assets/14c33003-0c97-40c8-a76f-ec43fa1a19a4)
+
+![344943214-e2b5c3a9-7e68-47cc-86a9-ee06274eb16d](https://github.com/user-attachments/assets/54a7aff9-b102-449d-8df9-da29d7cd3dcc)
+
+![344943258-d79bbf20-9dec-4659-91aa-219b73754e0a](https://github.com/user-attachments/assets/51435ca9-4f0d-4109-a0bb-87f5001b9d1b)
+
+![344943335-bce5d78e-95f1-4043-9173-59a7d2f42eb8](https://github.com/user-attachments/assets/281f712c-68a1-4d36-858c-cff8463080bf)
+
+![344943389-cf8c3d80-333c-4774-8df5-eacd7ad8d874](https://github.com/user-attachments/assets/030094d9-e913-4643-926f-ebc6e250f865)
+
+![344943433-da08a16b-f10b-4773-8dce-76f970c0e226](https://github.com/user-attachments/assets/5af1c0d8-4331-40a1-9719-86fc0d6fdd78)
+
+![344943503-5eb561b1-f512-4016-b500-ee70439dd44b](https://github.com/user-attachments/assets/81bc1fb1-60aa-4e32-854a-d6541ccb61cd)
+
+![344943542-e21e67bd-8da8-4d94-8fdb-765ee1dc7dc3](https://github.com/user-attachments/assets/a7dd387c-af5c-4377-a9d8-4503dc539b6f)
+
+![344943577-8fc7880c-8d53-4b4c-b6b5-9f7081722e55](https://github.com/user-attachments/assets/3bf5388f-3f89-4720-9b3e-4303d1a5e4db)
+
+
+
 
 ## Result:
 Thus,Creating a website for college was executed successfully.
