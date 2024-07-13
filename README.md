@@ -1,7 +1,7 @@
-##html-city-tourism
-##Ex-1
+## html-city-tourism
+## Ex-1
 Creating a html file to display the contents as seen in the following image.
-##Program:
+## Program:
 
 ```
 <!DOCTYPE html>
@@ -79,15 +79,15 @@ Creating a html file to display the contents as seen in the following image.
 
 ```
 
-##Output
+## Output
 Screenshot 2024-07-02 134519
 
-##Result:
+## Result:
 Thus,Creating a html file to display the content in the above picture was executed successfully.
 
-##Ex: 2
-##Aim: To design a website for a College.
-##Program:
+## Ex: 2
+## Aim: To design a website for a College.
+## Program:
 
 ```
 
@@ -554,8 +554,8 @@ footer {
     width: 100%;
     bottom: 0;
 }
-##Output:
+## Output:
 Screenshot 2024-07-02 133856 Screenshot 2024-07-02 133916 Screenshot 2024-07-02 133925 Screenshot 2024-07-02 133933 Screenshot 2024-07-02 134014 Screenshot 2024-07-02 134024 Screenshot 2024-07-02 134037 Screenshot 2024-07-02 134047 Screenshot 2024-07-02 134103 Screenshot 2024-07-02 134122
 
-##Result:
+## Result:
 Thus,Creating a website for college was executed successfully.
